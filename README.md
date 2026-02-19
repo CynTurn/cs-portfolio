@@ -64,13 +64,14 @@ This repository will serve as a professional portfolio showcasing coursework, pr
 
 ## Featured Projects
 
-### Linked List Contact Manager (C++)
+### Linked List Project (C++)
+[View Project](Projects/LinkedListProject)
+
 Demonstrates:
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming
 - Pointer management
 - Linked list implementation
-- Class construction and encapsulation
-- Structured program design
+
 
 (Additional projects will be added throughout the program.)
 

@@ -1,29 +1,4 @@
-# CS Portfolio – Cynthia Turner
-
-## About Me
-
-Hello! My name is Cynthia Turner, and I am currently pursuing my Bachelor of Science in Computer Science at Southern New Hampshire University (SNHU).
-
-I am highly motivated and strive for excellence in both my professional and personal endeavors. With over 19 years of experience in the semiconductor industry, I bring a strong technical and operational background to my academic journey.
-
-My experience spans:
-
-- MES Analyst
-- MOCVD Process Engineering Technician
-- Technical Writer
-- Sales Leadership
-
-I specialize in bridging manufacturing, engineering, and IT systems to drive data integrity, compliance, efficiency, and continuous improvement.
-
----
-
-## Professional Focus
-
-**Career Goal:**  
-To become a world-class SQL developer and debugger, mastering database optimization, system integration, and enterprise-level data solutions.
-
-I am passionate about:
-
+.
 - Advanced SQL development
 - Query optimization and performance tuning
 - Database architecture
@@ -63,6 +38,36 @@ This repository will serve as a professional portfolio showcasing coursework, pr
 ---
 
 ## Featured Projects
+## Featured Projects
+
+### Grocery Tracking Program (C++)
+
+[View Project Files](Projects/GroceryTracking)
+
+**Course:** CS-210 Programming Languages  
+**Language:** C++  
+
+#### Project Summary
+The Grocery Tracking Program was developed in C++ to analyze grocery purchase data and calculate item frequency using file input and a map data structure. The program assists in identifying purchasing trends and generating a backup data file for record keeping.
+
+#### Key Features
+- Object-Oriented Design using a GroceryTracker class
+- File processing and automatic frequency tracking
+- Menu-driven interface
+- Input validation
+- Histogram visualization of item frequency
+- Backup file generation (frequency.dat)
+
+#### Skills Demonstrated
+- C++ programming
+- File I/O handling
+- Data structures (map)
+- Input validation & error handling
+- Modular design and encapsulation
+- Clean, maintainable code practices
+
+#### Reflection
+This project strengthened my understanding of object-oriented programming, file handling, and data structure implementation in C++. The most challenging aspect was processing file input accurately and implementing reliable input validation. Through debugging and testing, I improved my problem-solving skills and reinforced clean coding practices. The modular structure of the program makes it maintainable and adaptable for future enhancements.
 
 ### Linked List Project (C++)
 [View Project](Projects/LinkedListProject)
